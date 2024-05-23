@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 ## Importing clustering algorithms ##
 from sklearn.cluster import KMeans
 
-## Silhouette score to find vakue k ##
+## Silhouette score to find value k ##
 from sklearn.metrics import silhouette_score
 
 ## import warnings ##
